@@ -6,3 +6,5 @@ The following is an example of a simple python code snippet.
 def main():
     printf('Hello World')
 ```
+
+Something else added.
